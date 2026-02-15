@@ -30,7 +30,7 @@
 ![https://www.instagram.com/dafa_nihhhh](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 #
-[![Statistik GitHub](https://github-readme-stats.vercel.app)](
+[![Statistik GitHub](https://github-readme-stats.vercel.app)](https://github.com/DafaAlmer19/github-readme-stats)
 
 #
 ![Quote](MyQuote.png)
