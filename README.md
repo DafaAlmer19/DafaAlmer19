@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Dafa
 
-<!--
-**DafaAlmer19/DafaAlmer19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a vocational high school student majoring in Software Development  
+💻 Aspiring Programmer  
+🚀 Currently learning: C++, C#, Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+- 🌱 I love learning new programming languages
+- 🧠 Currently improving my algorithm & data structure skills
+- 🎮 Interested in game development
+- 💡 Building small projects to improve every day
+
+---
+
+## 🛠 Tech Stack
+
+- 💻 C++
+- 🎯 C#
+- 🌐 HTML, CSS, JavaScript
+- 🔧 Git & GitHub
+
+---
+
+## 📫 Let's Connect
+
+- 📸 Instagram:
+- 🎥 TikTok:
+- 📧 Email:
+
+---
+
+> "Quiet nights, brighter days."
