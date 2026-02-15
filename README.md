@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Dafa
+## HelloWorld, I'm Dafa😁
+
+![DafaAlmer19](Banner1.png)
 
 🎓 I'm a vocational high school student majoring in Software Development  
 💻 Aspiring Programmer  
-🚀 Currently learning: C++, C#, Web Development  
+🚀 Currently learning: C++, C#, Web Development, Game Development
 
 ---
 
-## 🔥 About Me
+#### 🔥 About Me
 
 - 🌱 I love learning new programming languages
 - 🧠 Currently improving my algorithm & data structure skills
@@ -15,21 +17,21 @@
 
 ---
 
-## 🛠 Tech Stack
+#### 🛠 Skills
 
-- 💻 C++
-- 🎯 C#
-- 🌐 HTML, CSS, JavaScript
-- 🔧 Git & GitHub
-
----
-
-## 📫 Let's Connect
-
-- 📸 Instagram:
-- 🎥 TikTok:
-- 📧 Email:
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> \
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 ---
 
-> "Quiet nights, brighter days."
+#### 📫 Let's Connect
+
+![https://www.instagram.com/dafa_nihhhh](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+#
+![Dafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DafaAlmer19)
+
+#
+![Quote](MyQuote.png)
